@@ -1,7 +1,46 @@
 .App {
   text-align: center;
 }
-
+.main{
+  margin: auto;
+  margin-top: 100px;
+}
+table
+{
+  margin: auto;
+  margin-top: 50px;
+  width: 300px;
+  border: 2px solid green;
+  border-radius: 5px;
+}
+.search
+{
+  width: 290px;
+  height: 30px;
+  font-size: 15px;
+  padding-left: 10px;
+}
+thead{
+  background-color: antiquewhite;
+}
+tbody th{
+  background-color:rgb(145, 241, 248);
+}
+tbody td{
+padding-left: 50px;
+}
+form input{
+  margin-bottom: 20px;
+  
+}
+form{
+ margin: auto;
+ padding-left: 550px;
+  width: 50%;
+}
+form label{
+  margin-top: 50px;
+}
 .App-logo {
   height: 40vmin;
   pointer-events: none;
